@@ -1,0 +1,3 @@
+what is the purpose of shell?-it provided interferance to the Unix system
+What did you learn by running shell commands?-_i learnt about file management,system monitoring and command syntax
+How was using the terminal different from clicking through folders?-it keeps track of the folder youre currently inside of
